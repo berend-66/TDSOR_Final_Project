@@ -1,0 +1,12 @@
+	(1)
+VARIABLES	mp1
+	
+transfact1	-0.000696
+	(0.00738)
+Constant	0.000571
+	(0.00880)
+	
+Observations	127
+R-squared	0.000
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
